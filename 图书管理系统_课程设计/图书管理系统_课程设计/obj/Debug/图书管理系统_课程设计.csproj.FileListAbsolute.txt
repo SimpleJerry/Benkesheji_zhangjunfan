@@ -1,0 +1,408 @@
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.CoreCompileInputs.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.主界面.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.CoreCompileInputs.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojAssemblyReference.cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.CopyComplete
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.15 9：56\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\名一文\Desktop\图书管理系统_课程设计2018.6.17 15.09\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\古月涛\Desktop\课程设计\赵波\005\图书管理系统_课程设计2018.6.17 15.30\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\胡涛最新版001\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojAssemblyReference.cache
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.cache
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.CoreCompileInputs.cache
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.CopyComplete
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\92520\Desktop\胡涛最新版002\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 12：50\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\课程设计\6.8胡涛-图书管理\在修改\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 14：26\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe.config
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.exe
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\图书管理系统_课程设计.pdb
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OOXML.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\bin\Debug\NPOI.xml
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csprojResolveAssemblyReference.cache
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注册界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.登录界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人信息设置Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者界面Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.添加图书Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书借阅Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.在借查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者管理Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书管理Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.历史查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.管理员设置Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入图书信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出图书信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书挂失Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.图书解挂Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.注销读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.吊销读者帐号Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.黑名单Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导入读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.导出读者信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.读者档案查询Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.系统计算器Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.关于Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.日历信息Form.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.修改密码.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.Properties.Resources.resources
+C:\Users\古月涛\Desktop\图书管理系统_课程设计 2018.6.20 15：00\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.csproj.GenerateResource.Cache
+C:\个人文件\Code\C#\图书管理系统_课程设计\图书管理系统_课程设计\obj\Debug\图书管理系统_课程设计.个人借阅图书查询Form.resources

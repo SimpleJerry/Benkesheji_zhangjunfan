@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B90D2BC3-9587-45F7-B61D-ADBB650D614A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>图书管理系统_课程设计</RootNamespace>
+    <AssemblyName>图书管理系统_课程设计</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0_注册界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_注册界面.Designer.cs">
+      <DependentUpon>0_注册界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_登录界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_登录界面.Designer.cs">
+      <DependentUpon>0_登录界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_1_管理员界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_1_管理员界面.Designer.cs">
+      <DependentUpon>1_1_管理员界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_2_1_个人信息设置.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_2_1_个人信息设置.Designer.cs">
+      <DependentUpon>1_2_1_个人信息设置.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_2_2_个人借阅图书查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_2_2_个人借阅图书查询.Designer.cs">
+      <DependentUpon>1_2_2_个人借阅图书查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_2_0_读者界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_2_0_读者界面.Designer.cs">
+      <DependentUpon>1_2_0_读者界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_1_添加图书.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_1_添加图书.Designer.cs">
+      <DependentUpon>2_1_添加图书.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_2_图书借还.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2_图书借还.Designer.cs">
+      <DependentUpon>2_2_图书借还.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_4_在借查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_4_在借查询.Designer.cs">
+      <DependentUpon>2_4_在借查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_3_读者管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3_读者管理.Designer.cs">
+      <DependentUpon>2_3_读者管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_5_图书管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_5_图书管理.Designer.cs">
+      <DependentUpon>2_5_图书管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_6_图书查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_6_图书查询.Designer.cs">
+      <DependentUpon>2_6_图书查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_7_历史查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_7_历史查询.Designer.cs">
+      <DependentUpon>2_7_历史查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_1_1_管理员设置.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_1_1_管理员设置.Designer.cs">
+      <DependentUpon>3_1_1_管理员设置.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_1_2_系统信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_1_2_系统信息.Designer.cs">
+      <DependentUpon>3_1_2_系统信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_2_2_导入图书信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_2_2_导入图书信息.Designer.cs">
+      <DependentUpon>3_2_2_导入图书信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_3_2_图书挂失.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_3_2_图书挂失.Designer.cs">
+      <DependentUpon>3_3_2_图书挂失.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_3_3_图书解挂.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_3_3_图书解挂.Designer.cs">
+      <DependentUpon>3_3_3_图书解挂.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_4_2_注销读者信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_4_2_注销读者信息.Designer.cs">
+      <DependentUpon>3_4_2_注销读者信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_4_5_导入读者信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_4_5_导入读者信息.Designer.cs">
+      <DependentUpon>3_4_5_导入读者信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_2_3_导出图书信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_2_3_导出图书信息.Designer.cs">
+      <DependentUpon>3_2_3_导出图书信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_4_6_导出读者信息_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_4_6_导出读者信息_.Designer.cs">
+      <DependentUpon>3_4_6_导出读者信息_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_4_4_黑名单.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_4_4_黑名单.Designer.cs">
+      <DependentUpon>3_4_4_黑名单.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_5_3_读者档案查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_5_3_读者档案查询.Designer.cs">
+      <DependentUpon>3_5_3_读者档案查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_6_1_系统计算器.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_6_1_系统计算器.Designer.cs">
+      <DependentUpon>3_6_1_系统计算器.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_7_1关于.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_7_1关于.Designer.cs">
+      <DependentUpon>3_7_1关于.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_6_2_日历信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_6_2_日历信息.Designer.cs">
+      <DependentUpon>3_6_2_日历信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_修改密码.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_修改密码.Designer.cs">
+      <DependentUpon>0_修改密码.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="3_4_3_吊销读者帐号.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_4_3_吊销读者帐号.Designer.cs">
+      <DependentUpon>3_4_3_吊销读者帐号.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="0_注册界面.resx">
+      <DependentUpon>0_注册界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_登录界面.resx">
+      <DependentUpon>0_登录界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_1_管理员界面.resx">
+      <DependentUpon>1_1_管理员界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_2_1_个人信息设置.resx">
+      <DependentUpon>1_2_1_个人信息设置.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_2_2_个人借阅图书查询.resx">
+      <DependentUpon>1_2_2_个人借阅图书查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_2_0_读者界面.resx">
+      <DependentUpon>1_2_0_读者界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_1_添加图书.resx">
+      <DependentUpon>2_1_添加图书.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2_图书借还.resx">
+      <DependentUpon>2_2_图书借还.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_4_在借查询.resx">
+      <DependentUpon>2_4_在借查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3_读者管理.resx">
+      <DependentUpon>2_3_读者管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_5_图书管理.resx">
+      <DependentUpon>2_5_图书管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_6_图书查询.resx">
+      <DependentUpon>2_6_图书查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_7_历史查询.resx">
+      <DependentUpon>2_7_历史查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_1_1_管理员设置.resx">
+      <DependentUpon>3_1_1_管理员设置.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_1_2_系统信息.resx">
+      <DependentUpon>3_1_2_系统信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_2_2_导入图书信息.resx">
+      <DependentUpon>3_2_2_导入图书信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_2_3_导出图书信息.resx">
+      <DependentUpon>3_2_3_导出图书信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_3_2_图书挂失.resx">
+      <DependentUpon>3_3_2_图书挂失.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_3_3_图书解挂.resx">
+      <DependentUpon>3_3_3_图书解挂.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_4_2_注销读者信息.resx">
+      <DependentUpon>3_4_2_注销读者信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_4_3_吊销读者帐号.resx">
+      <DependentUpon>3_4_3_吊销读者帐号.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_4_4_黑名单.resx">
+      <DependentUpon>3_4_4_黑名单.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_4_5_导入读者信息.resx">
+      <DependentUpon>3_4_5_导入读者信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_4_6_导出读者信息_.resx">
+      <DependentUpon>3_4_6_导出读者信息_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_5_3_读者档案查询.resx">
+      <DependentUpon>3_5_3_读者档案查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_6_1_系统计算器.resx">
+      <DependentUpon>3_6_1_系统计算器.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_7_1关于.resx">
+      <DependentUpon>3_7_1关于.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_6_2_日历信息.resx">
+      <DependentUpon>3_6_2_日历信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_修改密码.resx">
+      <DependentUpon>0_修改密码.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
