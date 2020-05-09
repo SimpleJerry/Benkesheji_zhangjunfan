@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6E01F1D-5712-43A6-A984-93F3CFD46AAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>研招信息查询系统</RootNamespace>
+    <AssemblyName>研招信息查询系统</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0_2_忘记密码界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_2_忘记密码界面.Designer.cs">
+      <DependentUpon>0_2_忘记密码界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_1_注册界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_1_注册界面.Designer.cs">
+      <DependentUpon>0_1_注册界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_0_用户界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_0_用户界面.Designer.cs">
+      <DependentUpon>1_0_用户界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_1_1_信息设置.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_1_1_信息设置.Designer.cs">
+      <DependentUpon>1_1_1_信息设置.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_2_院校信息查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_2_院校信息查询.Designer.cs">
+      <DependentUpon>1_2_院校信息查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_3_硕士专业目录.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_3_硕士专业目录.Designer.cs">
+      <DependentUpon>1_3_硕士专业目录.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_4_2_专业收藏 .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_4_2_专业收藏 .Designer.cs">
+      <DependentUpon>1_4_2_专业收藏 .cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_4_1_院校收藏.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_4_1_院校收藏.Designer.cs">
+      <DependentUpon>1_4_1_院校收藏.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_5_图表分析.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_5_图表分析.Designer.cs">
+      <DependentUpon>1_5_图表分析.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_0_登录界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_0_登录界面.Designer.cs">
+      <DependentUpon>0_0_登录界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="0_0_登录界面.resx">
+      <DependentUpon>0_0_登录界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_2_忘记密码界面.resx">
+      <DependentUpon>0_2_忘记密码界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_1_注册界面.resx">
+      <DependentUpon>0_1_注册界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_0_用户界面.resx">
+      <DependentUpon>1_0_用户界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_1_1_信息设置.resx">
+      <DependentUpon>1_1_1_信息设置.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_4_2_专业收藏 .resx">
+      <DependentUpon>1_4_2_专业收藏 .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_5_图表分析.resx">
+      <DependentUpon>1_5_图表分析.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_4_1_院校收藏.resx">
+      <DependentUpon>1_4_1_院校收藏.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_3_硕士专业目录.resx">
+      <DependentUpon>1_3_硕士专业目录.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_2_院校信息查询.resx">
+      <DependentUpon>1_2_院校信息查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登录界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\注册界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\注册界面.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\信息设置.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\院校信息.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\硕士专业目录.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,488 @@
+<!doctype html>
+<meta name=”viewport” content=”width=device-width, initial-scale=1″ />
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>收藏夹1显示</title>
+    <script src="../js/echarts.min.js"></script>
+    <script src="../js/jquery-3.2.1.js"></script>
+    <script src="../js/china.js"></script>
+</head>
+<body>
+<div id="MapDiv" style="float:left;height: 400px;width: 600px"></div>
+<div id="PieDiv" style="float:right;height: 400px;width: 600px"></div>
+<div id="BarDiv" style="float:right;height: 400px;width: 600px"></div>
+<div id="TreeDiv" style="float:left;height: 600px;width: 600px"></div>
+<div id="table" ></div>
+<script>
+    function dd (data) {
+        var mychart1=echarts.init(document.getElementById('MapDiv'));
+        mychart1.setOption({
+            title: {
+                text: "学校分布",
+                x: "center"
+            },
+            tooltip: {
+                trigger: "item",
+                formatter:function (params) {
+                    var res = '';
+                    res+=params['data'].name+'</br>';
+                    res+='院校数量' +' : '+params['data'].value+'</br>';
+                    return res;
+                }
+            },
+            legend: {
+                orient: "vertical",
+                x: "left",
+                data: ["985", "211", "其他"]
+            },
+            dataRange: {
+                min: 0,
+                max: 160,
+                x: "left",
+                y: "bottom",
+                text: ["高", "低"],
+                calculable: true
+            },
+            toolbox: {
+                show: true,
+                orient: "vertical",
+                x: "right",
+                y: "bottom",
+                feature: {
+                    mark: {
+                        show: true
+                    },
+                    dataView: {
+                        show: true,
+                        readOnly: false
+                    },
+                    restore: {
+                        show: true
+                    },
+                    saveAsImage: {
+                        show: true
+                    },
+                    readOnly:true
+                }
+            },
+            roamController: {
+                show: true,
+                x: "right",
+                mapTypeControl: {
+                    china: true
+                }
+            },
+            series:[
+                {
+                    name:"985",
+                    type:"map",
+                    mapType:"china",
+                    roam: false,
+                    mapValueCalculation: "sum",
+                    itemStyle: {
+                        emphasis: {
+                            areaColor: 'red',
+                            borderWidth: 1,
+                            borderColor: 'yellow',
+                            label: {
+                                show: true
+                            }
+                        }
+                    },
+                    data:data.da,
+                    label: {
+                        normal: {
+                            show: true
+                        },
+                        emphasis: {
+                            show: true
+                        }
+                    }
+                }
+            ]
+        });
+        console.log(data.da);
+        var mychart2=echarts.init(document.getElementById('PieDiv'));
+        mychart2.setOption({
+            title : {
+                text: '学校特征比例',
+                x:'center'
+            },
+            tooltip : {
+                trigger: 'item',
+                formatter: "{a} <br/>{b} : {c} ({d}%)"              //设定字符串模板
+            },
+            legend: {
+                orient: 'vertical',
+                left: 'left',
+                data: ['985','211','双非']
+            },
+            series : [
+                {
+                    name: '学校类别',
+                    type: 'pie',
+                    radius : '55%',
+                    center: ['50%', '60%'],
+                    data:[
+                        {name:'985',value:39},
+                        {name:'211',value:77},
+                        {name:'双非',value:747}
+                    ],
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }
+            ]
+        });
+        var series=[
+            {"所在地":"安徽","拟招人数":57985},
+            {"所在地":"北京","拟招人数":389505},
+            {"所在地":"福建","拟招人数":38967},
+            {"所在地":"甘肃","拟招人数":36763},
+            {"所在地":"广东","拟招人数":90353},
+            {"所在地":"广西","拟招人数":47847},
+            {"所在地":"贵州","拟招人数":11123},
+            {"所在地":"海南","拟招人数":5527},
+            {"所在地":"河北","拟招人数":53356},
+            {"所在地":"河南","拟招人数":72387},
+            {"所在地":"黑龙江","拟招人数":43231},
+            {"所在地":"湖北","拟招人数":169779},
+            {"所在地":"湖南","拟招人数":70301},
+            {"所在地":"吉林","拟招人数":51231},
+            {"所在地":"江苏","拟招人数":173468},
+            {"所在地":"江西","拟招人数":37729},
+            {"所在地":"辽宁","拟招人数":80080},
+            {"所在地":"内蒙古","拟招人数":15452},
+            {"所在地":"宁夏","拟招人数":6929},
+            {"所在地":"山东","拟招人数":77209},
+            {"所在地":"山西","拟招人数":30836},
+            {"所在地":"陕西","拟招人数":76090},
+            {"所在地":"上海","拟招人数":151040},
+            {"所在地":"四川","拟招人数":99575},
+            {"所在地":"天津","拟招人数":34915},
+            {"所在地":"西藏","拟招人数":356},
+            {"所在地":"新疆","拟招人数":42595},
+            {"所在地":"云南","拟招人数":50852},
+            {"所在地":"浙江","拟招人数":50706},
+            {"所在地":"重庆","拟招人数":148160}];
+        var mychart4=echarts.init(document.getElementById('BarDiv'));
+
+        var mychart3=echarts.init(document.getElementById('TreeDiv'));
+        mychart1.on('click', function(params){
+            //alert(1);;
+            var series1=[];
+            console.log(params.data);
+            $.each(params.data.ratio, function (index, item) {                       //逐个读取data里数据
+                series1.push(item.value);
+            });
+            mychart2.setOption({
+                title : {
+                    text: '学校特征比例',
+                    x:'center'
+                },
+                tooltip : {
+                    trigger: 'item',
+                    formatter: "{a} <br/>{b} : {c} ({d}%)"              //设定字符串模板
+                },
+                legend: {
+                    orient: 'vertical',
+                    left: 'left',
+                    data: ['985','211','双非']
+                },
+                series : [
+                    {
+                        name: '学校类别',
+                        type: 'pie',
+                        center: ['50%', '60%'],
+                        data:[
+                            {name:'985',value:series1[2]},
+                            {name:'211',value:series1[0]},
+                            {name:'双非',value:series1[1]}
+                        ],
+                        itemStyle: {
+                            emphasis: {
+                                shadowBlur: 10,
+                                shadowOffsetX: 0,
+                                shadowColor: 'rgba(0, 0, 0, 0.5)'
+                            }
+                        }
+                    }
+                ]
+            });
+            mychart3.showLoading();
+            var data1={
+                name: params.name,    // 节点的名称，当前节点 label 对应的文本
+                children:params.data.place
+            }
+            var data2 = {
+                "name": "flare",
+                "children": [
+                    {
+                        "name": "flex",
+                        "children": [
+                            {"name": "FlareVis", "value": 4116}
+                        ]
+                    },
+                    {
+                        "name": "scale",
+                        "children": [
+                            {"name": "IScaleMap", "value": 2105},
+                            {"name": "LinearScale", "value": 1316},
+                            {"name": "LogScale", "value": 3151},
+                            {"name": "OrdinalScale", "value": 3770},
+                            {"name": "QuantileScale", "value": 2435},
+                            {"name": "QuantitativeScale", "value": 4839},
+                            {"name": "RootScale", "value": 1756},
+                            {"name": "Scale", "value": 4268},
+                            {"name": "ScaleType", "value": 1821},
+                            {"name": "TimeScale", "value": 5833}
+                        ]
+                    },
+                    {
+                        "name": "display",
+                        "children": [
+                            {"name": "DirtySprite", "value": 8833}
+                        ]
+                    }
+                ]
+            };
+            mychart3.hideLoading();
+            mychart3.setOption({
+                tooltip: {
+                    trigger: 'item',
+                    triggerOn: 'mousemove'
+                },
+                legend: {
+                    type:'scroll',
+                    top: '2%',
+                    left: '3%',
+                    orient: 'vertical',
+                    data:{
+                        name: 'tree1',
+                        icon: 'rectangle'
+                    },
+                    borderColor: '#c23531'
+                },
+                series:{
+                    type: 'tree',
+                    name: 'tree1',
+                    data:[data1],
+                    top: '5%',
+                    left: '7%',
+                    right: '30%',
+                    symbolSize: 7,
+                    label: {
+                        normal: {
+                            position: 'left',
+                            verticalAlign: 'middle',
+                            align: 'right'
+                        }
+                    },
+
+                    leaves: {
+                        label: {
+                            normal: {
+                                position: 'right',
+                                verticalAlign: 'middle',
+                                align: 'left'
+                            }
+                        }
+                    },
+
+                    expandAndCollapse: true,
+
+                    animationDuration: 550,
+                    animationDurationUpdate: 750
+
+                }
+            });
+
+        });//点击事件，此事件还可以用到柱状图等其他地图
+        mychart3.on('click',function (params) {
+            var name3=[];
+            var value=[];
+            $.each(params.data.academy,function (index,item){
+                name3.push(item.院系所);
+                value.push(item.value);
+            });
+            console.log(params.data.academy);
+            if(params.data.academy.length){
+                mychart4.setOption({
+                    title:{
+                        text: '各院招生人数('+params.name+')'
+                    },
+                    tooltip:{
+                        trigger:'axis',
+                        formatter:function(params){
+                            var html = '';
+                            if(params.length>0){
+                                Xindex = params[0].dataIndex;
+                                for ( var int = 0; int < params.length; int++) {
+                                    html+=params[int].name+':'+params[int].value+'<br>';
+                                }
+                            }
+                            return html;
+                        }
+
+                    },
+                    toolbox: {
+                        show: true,
+                        orient: "vertical",
+                        x: "right",
+                        y: "bottom",
+                        feature: {
+                            mark: {
+                                show: true
+                            },
+                            dataView: {
+                                show: true,
+                                readOnly: false
+                            },
+                            magicType: {                        //图表形式可变
+                                show:true,
+                                type:['line','bar']
+                            },
+                            restore: {
+                                show: true
+                            },
+                            saveAsImage: {
+                                show: true
+                            },
+                            readOnly:true
+                        }
+                    },
+                    legend: {
+                    },
+                    dataZoom:{                                  //数据区域缩放
+                        show:true,
+                        start:0,
+                        end:20
+                    },
+                    xAxis: {
+                        type: 'category',
+                        data:name3,
+                        axisLabel: {
+                            interval:0,
+                            rotate:40
+                        }
+                    },
+                    yAxis: {
+                        name:''
+                    },
+                    series: [{
+                        data:params.data.academy,
+                        type:'bar'
+                    }]
+                });
+            }
+            else
+            {
+                mychart4.setOption({
+                    title:{
+                        text: '各院招生人数('+params.name+')'
+                    },
+                    tooltip:{
+                        trigger:'axis',
+                        formatter:function(params){
+                            var html = '';
+                            if(params.length>0){
+                                Xindex = params[0].dataIndex;
+                                for ( var int = 0; int < params.length; int++) {
+                                    html+=params[int].name+':'+params[int].value+'<br>';
+                                }
+                            }
+                            return html;
+                        }
+
+                    },
+                    toolbox: {
+                        show: true,
+                        orient: "vertical",
+                        x: "right",
+                        y: "bottom",
+                        feature: {
+                            mark: {
+                                show: true
+                            },
+                            dataView: {
+                                show: true,
+                                readOnly: false
+                            },
+                            magicType: {                        //图表形式可变
+                                show:true,
+                                type:['line','bar']
+                            },
+                            restore: {
+                                show: true
+                            },
+                            saveAsImage: {
+                                show: true
+                            },
+                            readOnly:true
+                        }
+                    },
+                    legend: {
+                    },
+                    dataZoom:{                                  //数据区域缩放
+                        show:true,
+                        start:0,
+                        end:20
+                    },
+                    xAxis: {
+                        type: 'category',
+                        data:name3,
+                        axisLabel: {
+                            interval:0,
+                            rotate:40
+                        }
+                    },
+                    yAxis: {
+                        name:''
+                    },
+                    series: [{
+                        data:params.data.academy,
+                        type:'bar'
+                    }]
+                });
+            }
+            var str="";
+            x=document.getElementById("table")  //查找元素
+            $(document).ready(function () {
+                str+="<table  rules=\"rows\" frame=\"below\" cellpadding=\"10\" border=\"1\">";
+                str+="<tr>";
+                str+="<th>院校名称</th>";
+                str+="<th>所在地</th>";
+                str+="<th>研究生院</th>";
+                str+="<th>自主划线院校</th>";
+                str+="<th>院校特性</th>";
+                str+="</tr>";
+                str+="<tr>";
+                str+="<th>"+params.data.name+"</th>";
+                str+="<th>"+params.data.所在地+"</th>";
+                if(params.data.研究生院==false)
+                    str+="<th>无</th>";
+                else
+                    str+="<th>有</th>";
+                if(params.data.自主划线院校==false)
+                    str+="<th>无</th>";
+                else
+                    str+="<th>有</th>";
+                if(params.data.院校特性=="")
+                    str+="<th>双非</th>";
+                else
+                    str+="<th>"+params.data.院校特性+"</th>";
+                str+="</tr>";
+                str+="</table>";
+                x.innerHTML=str;    //改变内容
+            });
+        });
+    }
+</script>
+<script src="../data/data1.json?cb=dd"></script>
+</body>
+</html>
