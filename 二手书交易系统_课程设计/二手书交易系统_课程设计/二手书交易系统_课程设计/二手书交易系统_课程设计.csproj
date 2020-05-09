@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81AC1442-9AA9-4048-9151-44611D09C6D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>二手书交易系统_课程设计</RootNamespace>
+    <AssemblyName>二手书交易系统_课程设计</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0_2_忘记密码.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_2_忘记密码.Designer.cs">
+      <DependentUpon>0_2_忘记密码.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_1_1_信息设置_管理员.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_1_1_信息设置_管理员.Designer.cs">
+      <DependentUpon>1_1_1_信息设置_管理员.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_1_2_系统信息.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_1_2_系统信息.Designer.cs">
+      <DependentUpon>1_1_2_系统信息.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_2_书目管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_2_书目管理.Designer.cs">
+      <DependentUpon>1_2_书目管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_3_用户管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_3_用户管理.Designer.cs">
+      <DependentUpon>1_3_用户管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_4_1_现存订单查询_管理员.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_4_1_现存订单查询_管理员.Designer.cs">
+      <DependentUpon>1_4_1_现存订单查询_管理员.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_4_2_历史订单查询_管理员.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_4_2_历史订单查询_管理员.Designer.cs">
+      <DependentUpon>1_4_2_历史订单查询_管理员.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_1_信息设置_用户.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_1_信息设置_用户.Designer.cs">
+      <DependentUpon>2_1_信息设置_用户.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_2_2_商品查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2_2_商品查询.Designer.cs">
+      <DependentUpon>2_2_2_商品查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_3_1_发布商品.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3_1_发布商品.Designer.cs">
+      <DependentUpon>2_3_1_发布商品.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_2_3_现存订单查询_买.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2_3_现存订单查询_买.Designer.cs">
+      <DependentUpon>2_2_3_现存订单查询_买.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_2_4_历史订单查询_买.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2_4_历史订单查询_买.Designer.cs">
+      <DependentUpon>2_2_4_历史订单查询_买.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_3_2_管理货品.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3_2_管理货品.Designer.cs">
+      <DependentUpon>2_3_2_管理货品.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_3_3_现存订单查询_卖.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3_3_现存订单查询_卖.Designer.cs">
+      <DependentUpon>2_3_3_现存订单查询_卖.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_3_4_历史订单查询_卖.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3_4_历史订单查询_卖.Designer.cs">
+      <DependentUpon>2_3_4_历史订单查询_卖.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="修改密码.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="修改密码.Designer.cs">
+      <DependentUpon>修改密码.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_1_注册界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_1_注册界面.Designer.cs">
+      <DependentUpon>0_1_注册界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_0_登录界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_0_登录界面.Designer.cs">
+      <DependentUpon>0_0_登录界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="待开发提示窗口.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="待开发提示窗口.Designer.cs">
+      <DependentUpon>待开发提示窗口.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_2_1_购物车.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2_1_购物车.Designer.cs">
+      <DependentUpon>2_2_1_购物车.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_0_管理员界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_0_管理员界面.Designer.cs">
+      <DependentUpon>1_0_管理员界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_0_用户界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_0_用户界面.Designer.cs">
+      <DependentUpon>2_0_用户界面.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_3_退出界面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_3_退出界面.Designer.cs">
+      <DependentUpon>0_3_退出界面.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="0_2_忘记密码.resx">
+      <DependentUpon>0_2_忘记密码.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_3_退出界面.resx">
+      <DependentUpon>0_3_退出界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_1_1_信息设置_管理员.resx">
+      <DependentUpon>1_1_1_信息设置_管理员.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_1_2_系统信息.resx">
+      <DependentUpon>1_1_2_系统信息.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_2_书目管理.resx">
+      <DependentUpon>1_2_书目管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_3_用户管理.resx">
+      <DependentUpon>1_3_用户管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_4_1_现存订单查询_管理员.resx">
+      <DependentUpon>1_4_1_现存订单查询_管理员.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_4_2_历史订单查询_管理员.resx">
+      <DependentUpon>1_4_2_历史订单查询_管理员.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_1_信息设置_用户.resx">
+      <DependentUpon>2_1_信息设置_用户.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2_2_商品查询.resx">
+      <DependentUpon>2_2_2_商品查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2_4_历史订单查询_买.resx">
+      <DependentUpon>2_2_4_历史订单查询_买.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3_1_发布商品.resx">
+      <DependentUpon>2_3_1_发布商品.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2_3_现存订单查询_买.resx">
+      <DependentUpon>2_2_3_现存订单查询_买.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3_2_管理货品.resx">
+      <DependentUpon>2_3_2_管理货品.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3_3_现存订单查询_卖.resx">
+      <DependentUpon>2_3_3_现存订单查询_卖.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3_4_历史订单查询_卖.resx">
+      <DependentUpon>2_3_4_历史订单查询_卖.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="修改密码.resx">
+      <DependentUpon>修改密码.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_1_注册界面.resx">
+      <DependentUpon>0_1_注册界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_0_登录界面.resx">
+      <DependentUpon>0_0_登录界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="待开发提示窗口.resx">
+      <DependentUpon>待开发提示窗口.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2_1_购物车.resx">
+      <DependentUpon>2_2_1_购物车.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_0_管理员界面.resx">
+      <DependentUpon>1_0_管理员界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_0_用户界面.resx">
+      <DependentUpon>2_0_用户界面.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\耶.png" />
+    <None Include="Resources\思考.png" />
+    <None Include="Resources\捏.png" />
+    <None Include="Resources\挠挠.png" />
+    <None Include="Resources\可以.png" />
+    <None Include="Resources\加班中.png" />
+    <None Include="Resources\登陆界面.png" />
+    <None Include="Resources\Hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\再见.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\信息设置_管理员.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\书目管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\现存订单_用户.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\历史订单_用户1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\历史订单_管理员.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\历史订单_用户.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\现存订单_管理员.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\注册界面.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\管理员界面.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
